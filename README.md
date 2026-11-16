@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @theranajayant, An engineering enthusiast, PM and a full stack developer.  
-- 👀 I’m interested in Martech which covers Cloud, ML, DL, DS and scalable system design. 
+- 👀 I’m interested in Martech which covers Cloud, ML, DL, DS, AI, MicroServices, Distributed Computing, scalable systems and Chaos Engineering. 
 - 🌱 Currently working with MixCommerce, STABLX
 - 💞️ I’m looking to collaborate with devs, entrepreneurs and SMEs on MarTech. 
 - 📫 Say hello on hello@ranajayant.com 
